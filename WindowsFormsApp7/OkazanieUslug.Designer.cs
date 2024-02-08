@@ -52,6 +52,7 @@
             this.dataGrid1.Name = "dataGrid1";
             this.dataGrid1.Size = new System.Drawing.Size(776, 215);
             this.dataGrid1.TabIndex = 0;
+           
             // 
             // but1
             // 

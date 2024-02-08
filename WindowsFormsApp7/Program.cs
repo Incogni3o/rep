@@ -8,7 +8,7 @@ namespace WindowsFormsApp7
 {
     static class Data
     {
-        public static string Glob_connection_string  = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='G:\4\ДОУ\WindowsFormsApp7\WindowsFormsApp7\VetDB.mdf';Integrated Security=True";
+        public static string Glob_connection_string  = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\Users\Дэмо Экзамен\source\repos\WindowsFormsApp7\WindowsFormsApp7\VTkilinika.mdf';Integrated Security=True";
     }
     static class Program
     {

@@ -267,7 +267,6 @@ namespace WindowsFormsApp7
             dr.Close();
             con1.Close();
         }
-
     }
 }
 
