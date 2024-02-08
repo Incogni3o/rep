@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetKlinN", "WindowsFormsApp7\VetKlinN.csproj", "{A0FD7774-55F2-460D-82F0-D90C58C57771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FD7774-55F2-460D-82F0-D90C58C57771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FD7774-55F2-460D-82F0-D90C58C57771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FD7774-55F2-460D-82F0-D90C58C57771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FD7774-55F2-460D-82F0-D90C58C57771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF5E587-137C-4670-B9D1-CA79B57DD913}
+	EndGlobalSection
+EndGlobal
